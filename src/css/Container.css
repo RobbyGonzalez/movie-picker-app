@@ -1,0 +1,10 @@
+:root {
+  background-color: rgb(239, 239, 240);
+}
+
+.Container {
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
